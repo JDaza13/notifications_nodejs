@@ -1,0 +1,10 @@
+{
+	"type": "module",
+	"dependencies": {
+		"nodemailer": "^6.8.0",
+		"nodemailer-sendgrid-transport": "^0.2.0"
+	},
+	"scripts": {
+		"start": "node main.js"
+	}
+}
